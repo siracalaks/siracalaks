@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on I'am currently working on React and React Native Software Development<br>👯 I’m looking to collaborate on Freelancer<br>🌱 I'm currently continue improve myself<br>💬 You can ask me about React , React Native , HTML , CSS
+🔭 I’m currently working on I'am currently working on React and React Native Software Development<br>👯 I’m looking to collaborate on Freelancer<br>🌱 I'm currently continue improve myself<br>💬 You can ask me about React , React Native , HTML , CSS, Javascript
 
 
 ## 🌐 Socials:
