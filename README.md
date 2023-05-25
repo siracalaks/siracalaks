@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=siracalaks&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Front End and Back End Meme
-<img src="https://pbs.twimg.com/media/EaEQS2iUYAEaHd5.jpg" width="512px" height="550px"/>
+<img src="https://pbs.twimg.com/media/EaEQS2iUYAEaHd5.jpg" width="512px" height="350px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=siracalaks&icon=9&color=1)](https://visitcount.itsvg.in)
