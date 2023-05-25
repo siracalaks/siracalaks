@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=siracalaks&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="[https://rm.up.railway.app/](https://pbs.twimg.com/media/EaEQS2iUYAEaHd5.jpg)" width="512px"/>
+<img src="https://pbs.twimg.com/media/EaEQS2iUYAEaHd5.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=siracalaks&icon=9&color=1)](https://visitcount.itsvg.in)
